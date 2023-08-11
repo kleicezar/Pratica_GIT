@@ -1,2 +1,4 @@
 # Pratica_GIT
- teste pratico sobre funcionalidades GIT
+Essa é uma atividade Pratica de inicialização do GIT.
+
+Esse repositorio foi criado seguindo um passo-a-passo.
